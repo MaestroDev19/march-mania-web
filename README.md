@@ -1,4 +1,4 @@
-# March Mania — Web (Next.js)
+# March Madness — Web (Next.js)
 
 Interactive UI to explore matchup win probabilities. This repository is **frontend-only**: it talks to the inference API (sibling repo **march-mania-backend**) over HTTP.
 
